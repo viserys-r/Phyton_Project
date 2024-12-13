@@ -1,5 +1,3 @@
-# Phyton_Project
-Phyton
 ABC Company Employee Dataset Analysis
 
 >>>Project Overview:
