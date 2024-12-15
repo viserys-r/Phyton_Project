@@ -18,7 +18,7 @@ Data validation checks were performed to ensure there were no missing or inconsi
 .
 >>>>>>Analysis Tasks
 .
-1.Team Distribution and Percentage Split
+1.Team Distribution and Percentage Split.
 
 The distribution of employees across each team was determined.
 
